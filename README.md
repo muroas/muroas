@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou o Wallace Kauan 🫡
+Tenho 19 anos, sou estudante de Engenharia de Software na UNICEPLAC e futuro desenvolvedor Front-End.  
 
-<!--
-**muroas/muroas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-kauan-4b5427249/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wallacekauan/)
 
-Here are some ideas to get you started:
+![Wallace Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=muroas&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muroas&layout=compact&theme=synthwave)
+
+## Tecnologias que estou estudando 💻
+
+<div style="display: inline_block">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
