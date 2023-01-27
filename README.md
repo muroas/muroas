@@ -1,3 +1,5 @@
+<img align="right" heigth="590cm" src="https://raw.githubusercontent.com/gist/muroas/8ce4b0a553f7bf30cd4a00e9804e8fbe/raw/f6e1a76def8d110bbb45215a581bab99e2b2ab22/githubcard.svg">
+
 ### Olá! Eu sou o Wallace Kauan 🫡
 Tenho 19 anos, sou estudante de Engenharia de Software na UNICEPLAC e futuro desenvolvedor Front-End.  
 
