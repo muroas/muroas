@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou o Wallace Kauan 🫡
-Tenho 20 anos e sou estudante de Engenharia de Software na Universidade UNICEPLAC, atualmente sou Jovem Aprendiz na empresa BIMBO, porém tenho como objetivo engressar em algum estágio na área de TI como desenvolvedor front-end ou back-end.
+Tenho 22 anos e sou estudante de Engenharia de Software na Universidade UNICEPLAC, atualmente sou Estagiário no Sebrae Nacional,em minhas tarefas estão: Suporte ao usuário, levantamento de requisitos juntamente com o supervisor, abertura de chamados para BUGs e etc.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-kauan-4b5427249/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wallacekauan/)
